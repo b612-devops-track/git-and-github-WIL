@@ -36,4 +36,4 @@ git & github 공부용 WIL임
 | (무료) 매우쉽게 알려주는 git & github | https://codingapple.com/course/git-and-github/ | 76분 | github | git 기초에 관한 영상 | 한국어 |
 
 ## License
-This repository is licensed under the B612 Custom DevOps license. See the [LICENSE.md](LICENSE) file for details. By following the rules of the license, you are allowed to set your custom license for your own directory, but not with the license those who affect the whole repository or others' creations.
+This repository is licensed under the B612 Custom DevOps license. See the [LICENSE](LICENSE.md) file for details. By following the rules of the license, you are allowed to set your custom license for your own directory, but not with the license those who affect the whole repository or others' creations.
