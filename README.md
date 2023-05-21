@@ -34,3 +34,6 @@ git & github 공부용 WIL임
 | 저장소를 깔끔하게 유지하는 쉬운 방법. | https://youtu.be/psjz6rwzMdk | 6분 | github | 0 |  | git hook에 관한 간단한 영상임 | 영어 |
 | Using Git Hooks | https://youtu.be/6MzXs35hLOI | 11분 | github | 0 |  | git hook에 관한 간단한 영상임 | 영어 |
 | (무료) 매우쉽게 알려주는 git & github | https://codingapple.com/course/git-and-github/ | 76분 | github | 0 |  | git 기초에 관한 영상임 | 한국어 |
+
+## License
+This repository is licensed under the B612 Custom DevOps license. See the [LICENSE](LICENSE) file for details. By following the rules of the license, you are allowed to set your custom license for your own directory, but not with the license those who affect the whole repository or others' creations.
