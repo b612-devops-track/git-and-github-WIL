@@ -6,9 +6,9 @@ Individual documents within this repository are the property of their respective
 
 All documents within this repository may be exposed externally under notice. They may be made public for the benefit of B612, its participants, or external support organizations such as Naver Cloud Platform. Individual licenses cannot refuse this condition.
 
-Contributors who make a pull request to this repository may set their own license policy for the documents they contribute. In order for a contributor's license policy to take effect, the contributor must include a file named LICENSE or LICENSE.md (case-insensitive) within their directory or specify their license at the top of their individual documents.
+Contributors who contribute to this repository may set their own license policy for the documents they contribute. In order for a contributor's license policy to take effect, the contributor must include a file named LICENSE or LICENSE.md (case-insensitive) within their directory or specify their license at the top of their individual documents.
 
-A contributor's license does not extend to documents outside of their directory and does not compel others to make their code open source. In other words, a contributor's license cannot enforce obligations akin to those of licenses such as the GPL on other contributors.
+A contributor's license does not extend to documents outside of their directory and does not compel others to make their code open source. In other words, a contributor's license cannot affect to others or enforce obligations akin to those of licenses such as the GPL on other contributors.
 
 ## Disclaimer of Warranty
 Unless required by applicable law or agreed to in writing, the documents provided in the repository are provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the documents and assume any risks associated with your exercise of permissions under this License.
